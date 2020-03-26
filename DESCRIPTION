@@ -8,3 +8,4 @@ Maintainer: Yi Zhao <zhaoyi1026@gmail.com>
 Description: Performs causal functional mediation analysis (CFMA) for functional treatment, functional mediator, and functional outcome. This package includes two functional mediation model types: (1) a concurrent mediation model and (2) a historical influence mediation model. See Zhao et al. (2018), Functional Mediation Analysis with an Application to Functional Magnetic Resonance Imaging Data, <arXiv:1805.06923> for details.
 License: GPL (>=2)
 Depends: R (>= 2.10)
+RoxygenNote: 7.1.0
